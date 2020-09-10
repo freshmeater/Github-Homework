@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\bin\Debug\netcoreapp3.0\pervie40.exe
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\bin\Debug\netcoreapp3.0\pervie40.deps.json
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\bin\Debug\netcoreapp3.0\pervie40.runtimeconfig.json
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\bin\Debug\netcoreapp3.0\pervie40.runtimeconfig.dev.json
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\bin\Debug\netcoreapp3.0\pervie40.dll
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\bin\Debug\netcoreapp3.0\pervie40.pdb
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\obj\Debug\netcoreapp3.0\pervie40.csprojAssemblyReference.cache
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\obj\Debug\netcoreapp3.0\pervie40.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\obj\Debug\netcoreapp3.0\pervie40.AssemblyInfo.cs
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\obj\Debug\netcoreapp3.0\pervie40.dll
+C:\Users\User\Desktop\zadachi\pervie40\pervie40\obj\Debug\netcoreapp3.0\pervie40.pdb
