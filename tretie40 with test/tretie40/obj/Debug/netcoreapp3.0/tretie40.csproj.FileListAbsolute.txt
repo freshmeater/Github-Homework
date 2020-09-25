@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\obj\Debug\netcoreapp3.0\tretie40.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\obj\Debug\netcoreapp3.0\tretie40.AssemblyInfo.cs
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\bin\Debug\netcoreapp3.0\tretie40.exe
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\bin\Debug\netcoreapp3.0\tretie40.deps.json
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\bin\Debug\netcoreapp3.0\tretie40.runtimeconfig.json
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\bin\Debug\netcoreapp3.0\tretie40.runtimeconfig.dev.json
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\bin\Debug\netcoreapp3.0\tretie40.dll
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\bin\Debug\netcoreapp3.0\tretie40.pdb
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\obj\Debug\netcoreapp3.0\tretie40.dll
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\obj\Debug\netcoreapp3.0\tretie40.pdb
+C:\Users\User\Desktop\zadachi\tretie40\tretie40\obj\Debug\netcoreapp3.0\Tretie40.csprojAssemblyReference.cache
